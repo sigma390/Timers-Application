@@ -17,7 +17,7 @@ type TimerState = {
 
 //initial state for use reducer hook
 // 11the step
-const initialState:TimerState={
+const initialState:TimerState ={
     isRunning:true,
     timers:[]
 }
